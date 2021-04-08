@@ -1,0 +1,11 @@
+t- trunk
+d-dark green block
+l- light green block
+g- ground
+w- wall
+y- yellow block
+u- unique block
+r- roof block
+c- cloud
+shift+p- increase width and height
+shift+m- decrease width and height
